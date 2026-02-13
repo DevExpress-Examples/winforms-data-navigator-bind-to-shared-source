@@ -16,7 +16,7 @@ This example demonstrates how to bind the [DevExpress Data Navigator](https://do
 
 * [How to: Create New DataNavigator Control](https://docs.devexpress.com/WindowsForms/9482/controls-and-libraries/editors-and-simple-controls/examples/how-to-create-new-datanavigator-control)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-data-navigator-bind-to-shared-source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-data-navigator-bind-to-shared-source&~~~was_helpful=no)
 
